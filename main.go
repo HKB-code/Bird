@@ -12,3 +12,7 @@ func Tweet()string{
 func Caw()string{
 	return  "caw! caw!"
 }
+
+func Warble()string{
+	return  "warble! warble!"
+}
