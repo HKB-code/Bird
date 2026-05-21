@@ -8,3 +8,7 @@ func Chrip () string{
 func Tweet()string{
 	return  "tweet! tweet!"
 }
+
+func Caw()string{
+	return  "caw! caw!"
+}
